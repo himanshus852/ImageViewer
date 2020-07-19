@@ -10,7 +10,7 @@ The Zoom in or out functionality takes special care of aspect ratio while scalin
 <li><b>Supported image format</b>: jpeg, jfif and png</li>
 <li><b>Task supported by Image Viewer</b>: Zoom In/Out , Swipe Left/Right</li>
 <br/>
-<b>Steps to execute project:</b><p><br>
+<b>Steps to execute project:</b><p>
 1) Compile the ImageViewer.py<br>
 2) Create executive file using pyinstaller.<br>
 3) Double-click on executive file to run the application<br>
