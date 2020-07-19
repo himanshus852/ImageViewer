@@ -41,7 +41,7 @@ The Zoom in or out functionality takes special care of aspect ratio while scalin
 
 <img src = https://github.com/himanshus852/ImageViewer/blob/master/Images/ZoomedIn2.jpg alt="Zoomed-In Image 2"/>
 
-<b>IF YOU ENCOUNTER ANY BUGS OR FOR ANY SUGGESTIONS REGARDING THE IMPROVEMENT IN APPLICATION FEEL FREE TO CONTACT ME :</b>
+<br><b>IF YOU ENCOUNTER ANY BUGS OR FOR ANY SUGGESTIONS REGARDING THE IMPROVEMENT IN APPLICATION FEEL FREE TO CONTACT ME :</b>
 
 Himanshu Sharma : <i>himanshus852@gmail.com</i>
 
