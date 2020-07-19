@@ -9,7 +9,7 @@ The Zoom in or out functionality takes special care of aspect ratio while scalin
 <li><b>Packages/Libraries Used</b>: pyinstaller, tkinter, pillow and openCV</li>
 <li><b>Supported image format</b>: jpeg, jfif and png</li>
 <li><b>Task supported by Image Viewer</b>: Zoom In/Out , Swipe Left/Right</li>
-
+<br>
 <ol><hi><b>Steps to execute project:</b></hi>
   <li>Compile the ImageViewer.py</li>
   <li>Create executive file using pyinstaller.</li>
